@@ -8,6 +8,8 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@brushes/qj-store-vue": "^1.0.1",
+    "@brushes/qj-tools-vue": "^1.0.1",
     "core-js": "^3.8.3",
     "vue": "^3.2.13",
     "vue-router": "^4.0.3",
